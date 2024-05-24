@@ -21,6 +21,10 @@ This is a tool for automatically translating Go language documentation into Chin
 
 - If you need to translate into other languages, you can modify the parameters in the API accordingly.
 
+## use
+
+- php auto.php
+
 ---
 
 # Go 文档翻译工具
@@ -45,3 +49,7 @@ This is a tool for automatically translating Go language documentation into Chin
 ## 自定义
 
 - 如果你需要翻译成其他语言，可以自行修改 API 中的参数。
+
+## 使用
+
+- php auto.php
