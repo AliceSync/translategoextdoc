@@ -1,0 +1,6 @@
+baidu.access.token
+conf.php
+log.db
+log.db-journal
+translation.db-journal
+*.log
