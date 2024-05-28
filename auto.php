@@ -23,7 +23,7 @@ if (!golang::check_extdoc($extdoc)) {
     exit_log('Go source code is not found.');
 }
 
-echo '请确定您已备份好SRC目录[y/N]';
+echo '请确定您已备份好[' . $dir . DIRECTORY_SEPARATOR . 'src]目录[y/N]';
 if (strtolower(trim(fgets(STDIN))) !== 'y') {
     exit_log('用户取消操作');
 }
